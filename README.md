@@ -27,7 +27,7 @@ E-Plant is a React-based web application designed for plant lovers. It provides 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/e-plant.git
+   git clone https://github.com/rperezpin/e-plant.git
    cd e-plant
    ```
 2. Install dependencies:  
