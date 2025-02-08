@@ -1,10 +1,8 @@
-.about-us-container {
-    width: 1000px;
-    /* margin: 0 auto; */
-    /* padding: 20px; */
-    /* background-color: red; */
-    text-align: justify;
-  }
+.aboutus_container {
+  width: 90%; /* Igualar ancho con landing_content */
+  max-width: 600px; /* Limitar el ancho máximo */
+  text-align: center;
+}
   
   .about-us-heading {
     font-size: 32px;
@@ -16,7 +14,7 @@
   .about-us-description {
     font-size: 18px;
     color: #666;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     text-align: center;
   }
   
